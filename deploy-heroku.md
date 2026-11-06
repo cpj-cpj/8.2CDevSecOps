@@ -2,7 +2,7 @@
 
 ## Step-by-step tutorial
 
-1. Sign-up to a free plan at heroku (https://www.heroku.com)
+1. Sign-up to a free plan at heroku (https://www.heroku.com).
 2. Install the `heroku` CLI. If you're on a macOS:
 
   ```
@@ -16,7 +16,7 @@
   ```
  
   
-4. Change directories to the goof/ app repository you cloned/forked
+4. Change directories to the goof/ app repository you cloned/forked.
 5. Create a heroku app:
 
   ```
